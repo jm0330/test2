@@ -30,3 +30,14 @@ Format: ![이미지 alt명](url 링크)
 
 <a href="#"><img src="https://github.com/jm0330/test2/blob/main/images/map-marker-gray.png" width="300px" alt="sample image"></a>  
 Foramt: img 태그 사용 - 이미지경로는 상대경로 or 절대경로  
+
+
+[GitHub](http://github.com "깃허브")
+
+```javascript
+function test(){
+ console.log("test");
+}
+```
+
+>

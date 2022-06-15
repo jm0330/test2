@@ -22,3 +22,11 @@ Ordered
 문장을 작성하면(공백 안둠)
 빈 줄이(스페이스둘)  
 위문장12
+
+
+이미지
+![블루](map-marker-blue.png)
+Format: ![이미지 alt명](url링크)
+
+<a href="#"<img src="https://github.com/jm0330/test2/map-marker-gray.png" width="300px" alt="sample image"></a>
+Foramt: img 태그 사용 - 이미지경로는 상대경로 or 절대경로
